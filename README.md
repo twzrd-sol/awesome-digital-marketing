@@ -96,6 +96,7 @@ Desktop software or SaaS that render information in a visual format for data ana
 __Artificial Intelligence__ enables digital marketers to work smarter, faster, and more efficiently.
 
 ### AI Tools
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring for AI agents on Solana. Verify agent wallet identity before x402 micropayments. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 - __[ChatGPT](https://chat.openai.com/) - Where do I begin? Open AI's Chat GPT has soooo many uses in marketing, but the primary use case is for generating powerful call-to-actions, hooks, and content ideas.__
    - [15 Rules For Crafting Effective GPT Chat Prompts](https://expandi.io/blog/chat-gpt-rules/) - How effective your ChatGPT response is depends entirely on you and the prompts you use.
    - [Awesome ChatGPT](https://github.com/humanloop/awesome-chatgpt) - A curated list of awesome ChatGPT tools, demos, and docs.
